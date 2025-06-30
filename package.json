@@ -1,0 +1,30 @@
+{
+  "name": "rss-ai-finder",
+  "version": "1.0.2",
+  "description": "A Node.js service to find and parse RSS feeds using AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspencer10/rss-finder.git"
+  },
+  "keywords": [
+    "rss",
+    "feed",
+    "finder",
+    "parser",
+    "openai"
+  ],
+  "author": "Steve Spencer <steve@sspencer10.com>",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "openai": "^5.8.2",
+    "rss-parser": "^3.13.0"
+  }
+}
