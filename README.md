@@ -6,7 +6,7 @@ A Node.js service to find and parse RSS feeds using AI.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sspencer10/rss-finder.git
+   git clone https://github.com/sspencer10/rss-ai-finder.git
    ```
 2. Install dependencies:
    ```bash

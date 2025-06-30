@@ -1,6 +1,6 @@
 {
   "name": "rss-ai-finder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js service to find and parse RSS feeds using AI.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sspencer10/rss-finder.git"
+    "url": "git+https://github.com/sspencer10/rss-ai-finder.git"
   },
   "keywords": [
     "rss",
